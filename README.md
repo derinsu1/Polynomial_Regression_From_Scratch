@@ -18,19 +18,19 @@ The following 6 figures show results for linear regression with various learning
 
 <br>
 
-Figure 1. LR=0.1
+*Figure 1. LR=0.1*
 
 ![image](https://user-images.githubusercontent.com/54302889/146252344-7fecb358-7234-4746-8f33-ddb234a5e6fb.png)
 
 <br>
 
-Figure 2.
+*Figure 2.*
 
 ![image](https://user-images.githubusercontent.com/54302889/146253095-e3bca369-a199-43c5-bb4e-e18ad3b455d6.png)
 
 <br>
 
-Figure 3. Bonus
+*Figure 3. Bonus*
 
 ![image](https://user-images.githubusercontent.com/54302889/146253187-fed214f6-2184-4413-98b1-651ac925c561.png)
 
@@ -38,19 +38,19 @@ Figure 3. Bonus
 
 <br>
 
-Figure 4. LR=0.7
+*Figure 4. LR=0.7*
 
 ![image](https://user-images.githubusercontent.com/54302889/146253266-3fe88342-5a66-4b76-b3c6-849ed748b68e.png)
 
 <br>
 
-Figure 5.
+*Figure 5.*
 
 ![image](https://user-images.githubusercontent.com/54302889/146253411-401e6741-9030-4700-87d3-be3bd25d4f67.png)
 
 <br>
 
-Figure 6. Bonus
+*Figure 6. Bonus*
 
 ![image](https://user-images.githubusercontent.com/54302889/146253527-ab585422-0ef4-4417-806a-60ece5cb32dd.png)
 
@@ -62,30 +62,28 @@ The next figure show the result of the seconds dataset using linear regression m
 
 <br>
 
-Figure 7. LR=0.05
+*Figure 7. LR=0.05*
 
 ![image](https://user-images.githubusercontent.com/54302889/146325097-5eaac5b8-fdb4-4958-a328-70d0e5e4b3ef.png)
 
 <br>
 
-Figure 8. LR=0.001
+*Figure 8. LR=0.001*
 
 ![image](https://user-images.githubusercontent.com/54302889/146325167-df4e42c9-52ae-4be0-8538-c6b2800ea5e9.png)
 
 <br>
 
-Figure 9. LR=0.01
+*Figure 9. LR=0.01*
 
 ![image](https://user-images.githubusercontent.com/54302889/146325210-7e9d3b34-809f-4120-8a0c-f49be266fa7b.png)
 
-Figure 9. LR=0.01
-
-<br>
+*Figure 9. LR=0.01*
 
 <br>
 
 I accidentally set the degree to 33 instead of 3 and got this graph, unfortunately the rather complicated function does not fit the screen.
 
-Figure 10. LR=0.01
+*Figure 10. LR=0.01*
 
 ![image](https://user-images.githubusercontent.com/54302889/146325317-2ca37d60-bd72-4b5d-b80c-6248adc41639.png)
